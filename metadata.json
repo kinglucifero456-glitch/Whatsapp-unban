@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Unban Assistant Pro",
+  "description": "Assistant professionnel d'aide au débannissement de compte WhatsApp. Génération d'e-mail d'appel persuasif optimisé par IA, prévisualisation et envoi sécurisé par SMTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
